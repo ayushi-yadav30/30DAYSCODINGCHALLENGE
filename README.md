@@ -50,13 +50,6 @@ This repository is organized in a day-wise format to track consistency and progr
 - HackerRank  
 
 ---
-
-## 📊 Progress Tracker
-
-👉 
-
----
-
 ## 🔥 Daily Updates
 
 I will be uploading solutions daily with proper file names and structure.
