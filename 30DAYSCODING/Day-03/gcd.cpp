@@ -1,15 +1,12 @@
 #include<iostream>
 using namespace std;
-int gcd(int a, int b){
-    if(a==0){
-    return b;
-}
- else if(b==0){
+int gcd(int a, int b) {
+    while (b != 0) {
+        int temp = b;
+        b = a % b;
+        a = temp;
+    }
     return a;
-}
- else {
-    return gcd(b,a%b);
-}
 }
 int main(){
     int n1,n2;
