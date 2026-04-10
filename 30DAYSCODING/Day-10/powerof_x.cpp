@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 double myPow(double x, int n) {
-    long long N = n;  // handle INT_MIN
+    long long N = n;  
     
     if (N < 0) {
         x = 1 / x;
