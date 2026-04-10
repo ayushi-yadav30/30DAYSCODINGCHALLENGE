@@ -59,7 +59,7 @@ int main() {
      printf("[ ");
     for (int i = 0; i < m + n; i++) {
         printf("%d ", nums1[i]);
-    }
+    } 
         printf(" ] ");
 
     return 0;
