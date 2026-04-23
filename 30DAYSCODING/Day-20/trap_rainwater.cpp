@@ -1,4 +1,3 @@
-
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -42,7 +41,4 @@ int trap(vector<int>& height) {
     cout << "Trapped Water: " << result << endl;
 
     return 0;
-
-    return 0;
-
     }

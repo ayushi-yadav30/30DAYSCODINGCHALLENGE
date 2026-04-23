@@ -35,4 +35,3 @@ int rob(vector<int>& nums) {
 
     return 0;
 }
-

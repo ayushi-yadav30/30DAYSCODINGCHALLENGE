@@ -31,4 +31,5 @@ int main(){
     cout<<"Count of '1' :"<<countDigitOne(N);
     return 0;
 
+
 }

@@ -37,7 +37,5 @@ int main() {
     int result = maxArea(height);
     cout << "Maximum water that can be stored: " << result << endl;
 
-    return 0;
-
 
 }

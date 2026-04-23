@@ -1,4 +1,4 @@
-include<iostream>
+#include<iostream>
 using namespace std;
 int main(){
     int i,j;
@@ -9,5 +9,4 @@ int main(){
         cout<<endl;
     }
 return 0;
-
 }
