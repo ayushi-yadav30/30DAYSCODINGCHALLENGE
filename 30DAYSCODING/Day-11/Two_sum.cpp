@@ -25,6 +25,7 @@ int main() {
     for (int i = 0; i < n; i++) {
         cin >> nums[i];
     }
+    int target;
 cout<<"Enter the target sum: ";
     cin >> target;
 
