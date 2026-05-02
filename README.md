@@ -1,86 +1,97 @@
-# 🚀 90 Problems in 30 Days | C & C++ Coding Challenge
+# 🚀 30 Days Coding Challenge
 
-Welcome to my coding journey!  
-This repository contains my solutions for a **30-day challenge** where I solve **3 problems daily** using **C and C++**.
-
----
-
-## 🎯 Objective
-
-- Improve problem-solving skills  
-- Build strong DSA fundamentals  
-- Maintain daily coding consistency  
-- Learn and apply optimized approaches  
+🔥 **Completed 30 Days Coding Challenge – Explore the journey, learnings, and solutions below**
 
 ---
 
-## 📅 Challenge Overview
+## ✅ Challenge Completed
 
-- ⏳ Duration: 30 Days  
-- 💻 Problems per Day: 3  
-- 🔢 Total Problems: 90  
-- 🧠 Focus: Logic Building + Data Structures & Algorithms  
+I successfully completed a **30 Days Coding Challenge** focused on improving my problem-solving skills, consistency, and understanding of core DSA concepts.
 
----
-
-## 🛠️ Languages Used
-
-- C  
-- C++  
+This journey wasn’t just about solving problems—it was about **thinking better, learning deeper, and building discipline**.
 
 ---
 
-## 📂 Repository Structure
+## 🎯 Goals (At the Start)
 
-This repository is organized in a day-wise format to track consistency and progress.
-**
-### 🔍 Explanation
-- Each `Day-XX` folder contains 3 problems  
-- File names are based on problem titles  
-- `.cpp` → C++ solutions  
-- `.c` → C solutions  
+- Solve problems daily  
+- Build coding consistency  
+- Strengthen DSA fundamentals  
+- Improve logical thinking  
 
 ---
 
-## 🌐 Platforms Used
+## 📊 Challenge Summary
 
-- LeetCode  
-- GeeksforGeeks  
-- CodeChef  
-- HackerRank  
-
----
-## 🔥 Daily Updates
-
-I will be uploading solutions daily with proper file names and structure.
-
-Each file includes:
-- Problem Name  
-- Approach (if needed)  
-- Clean and readable code  
-
+- 📅 Duration: 30 Days  
+- 💻 Problems Solved: 70+  
+- 🧠 Topics Covered:
+  - Pattern Problems (Basic → Advanced)  
+  - Arrays & Basic Logic  
+  - Greedy Algorithms  
+  - Dynamic Programming  
+  - Stack
 ---
 
-## 💡 What I’m Learning
+## 📂 Journey Breakdown
 
-- Problem-solving techniques  
-- Time and space optimization  
-- Writing clean and efficient code  
-- Consistency and discipline  
+Day 1 – Day 10   → Basics & Pattern Problems  
+Day 11 – Day 20  → Intermediate DSA Problems  
+Day 21 – Day 30  → Revision + Advanced Concepts  
 
 ---
 
-## 🤝 Let's Connect
+## ⚡ Approach
 
-If you're also on a coding journey, feel free to connect and share your progress!
-
----
-
-## ⭐ Support
-
-If you find this repository helpful, consider giving it a ⭐
+- Maintained daily coding consistency  
+- Focused on **clean and optimized code**  
+- Shifted from solving more → **understanding better**  
+- Practiced both **patterns + DSA problems**  
+- Prioritized revision in the final phase  
 
 ---
 
-**Consistency is the key 🔁****
+## 💡 Key Learnings
 
+- Patterns are about **logic and conditions, not memorization**  
+- Broke complex problems into smaller parts  
+- Understood when to use **Greedy vs Dynamic Programming**  
+- Revision is essential for mastery  
+- Consistency matters more than perfection  
+
+---
+
+## 🌱 What Changed
+
+At the beginning:
+> “How many problems can I solve?”
+
+By the end:
+> “How well do I understand the problem?”
+
+This shift improved my clarity, confidence, and problem-solving approach.
+
+---
+
+## 🧾 About This Repository
+
+This repository includes:
+- Pattern problems  
+- DSA questions  
+- Optimized solutions in C/C++  
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ayushi-yadav-892b71394/
+- 💻 GitHub: https://github.com/ayushi-yadav30
+
+---
+
+## ✨ Final Note
+
+> Small progress every day leads to big results.
+
+This challenge helped me build **discipline, consistency, and a stronger problem-solving mindset**.  
+Looking forward to continuing this journey 🚀
